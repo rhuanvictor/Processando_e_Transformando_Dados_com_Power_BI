@@ -24,3 +24,6 @@ Este projeto foi desenvolvido como parte de um desafio para transformar e proces
 - **Total de Colaboradores**: 8
 - **Total de Dependentes**: 7
 - **Total de Horas Trabalhadas**: 275 horas
+
+## Resposta do Desafio:
+![Dashboard Power BI](https://github.com/rhuanvictor/Processando_e_Transformando_Dados_com_Power_BI/blob/main/resposta.jpg)
